@@ -4,7 +4,7 @@
     - [Goal](#goal)
     - [What inside](#what-inside)
     - [Supported microcontrollers](#supported-microcontrollers)
-- [Software requirements](#system-requirements)
+- [Software requirements](#software-requirements)
 
 
 
