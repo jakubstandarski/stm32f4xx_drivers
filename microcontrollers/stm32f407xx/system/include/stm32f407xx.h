@@ -21,6 +21,11 @@
 /* MEMORY MAP */
 /*****************************************************************************/
 
+#define FLASH_MEMORY_BASE_ADDRESS   0x08000000U
+#define SRAM1_MEMORY_BASE_ADDRESS   0x20000000U
+#define SRAM2_MEMORY_BASE_ADDRESS   0x2001C000U
+
+
 #define APB1_BASE_ADDRESS 0x40000000U
 #define APB2_BASE_ADDRESS 0x40010000U
 #define AHB1_BASE_ADDRESS 0x40020000U
